@@ -1,10 +1,9 @@
 from django.shortcuts import render
 import os
-# from dotenv import load_dotenv
+
 import json
 import urllib.request
 
-# load_dotenv()  # Load environment variables from.env file
 
 # Create your views here.
 def home(request):
