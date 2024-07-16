@@ -1,0 +1,18 @@
+
+
+
+https://openweathermap.org/api
+#Maintain secrets in .env file
+https://hellosambhavi.com/simple-django-tip-2
+Step 1: Install python-dotenv
+Step 2: Create a .env file
+Step 3: Add entries to .env file
+Step 4: Import and load dotenv files in base.py
+Step 5: Fetch properties from .env using os package
+Step 6: Add .env file to .gitignore
+
+###Project SETTINGS
+https://hellosambhavi.com/simple-django-tip-1
+
+# Quick-start development settings - unsuitable for production
+See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
